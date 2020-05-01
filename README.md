@@ -9,3 +9,4 @@ This is a repository to learn the basic programs of c++
 - Pass or Fail
 - Add two matrices
 - Transpose of a matrix
+- Dynamic memory allocation

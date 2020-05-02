@@ -11,3 +11,5 @@ This is a repository to learn the basic programs of c++
 - Transpose of a matrix
 - Dynamic memory allocation
 - Stick games
+- Queue
+

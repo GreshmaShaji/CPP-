@@ -12,4 +12,5 @@ This is a repository to learn the basic programs of c++
 - Dynamic memory allocation
 - Stick games
 - Queue
+- Sum of Even and Odd numbers
 

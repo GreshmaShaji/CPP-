@@ -14,3 +14,4 @@ This is a repository to learn the basic programs of c++
 - Queue
 - Sum of Even and Odd numbers
 - Check an array is even, odd or mixed
+- Maximum element in each row

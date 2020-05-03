@@ -13,4 +13,4 @@ This is a repository to learn the basic programs of c++
 - Stick games
 - Queue
 - Sum of Even and Odd numbers
-
+- Check an array is even, odd or mixed

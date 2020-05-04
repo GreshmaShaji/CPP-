@@ -16,4 +16,5 @@ This is a repository to learn the basic programs of c++
 - Check an array is even, odd or mixed
 - Maximum element in each row
 - Sum of each row
+- Compare two strings
 

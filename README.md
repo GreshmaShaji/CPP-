@@ -17,4 +17,4 @@ This is a repository to learn the basic programs of c++
 - Maximum element in each row
 - Sum of each row
 - Compare two strings
-
+- Find the length of a string

@@ -18,4 +18,5 @@ This is a repository to learn the basic programs of c++
 - Sum of each row
 - Compare two strings
 - Find the length of a string
--Remove characters except Alphabets
+- Remove characters except Alphabets
+- Create Structure

@@ -20,3 +20,4 @@ This is a repository to learn the basic programs of c++
 - Find the length of a string
 - Remove characters except Alphabets
 - Create Structure
+- Difference between two time periods
